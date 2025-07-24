@@ -1,0 +1,481 @@
+{
+  "cities": [
+    {
+      "city": "New York City",
+      "state": "New York",
+      "weather": {
+        "temperature": { "current": 72.5, "unit": "fahrenheit" },
+        "humidity": 65,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Los Angeles",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 75.8, "unit": "fahrenheit" },
+        "humidity": 58,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Chicago",
+      "state": "Illinois",
+      "weather": {
+        "temperature": { "current": 68.2, "unit": "fahrenheit" },
+        "humidity": 72,
+        "conditions": "Cloudy"
+      }
+    },
+    {
+      "city": "Houston",
+      "state": "Texas",
+      "weather": {
+        "temperature": { "current": 82.4, "unit": "fahrenheit" },
+        "humidity": 75,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "weather": {
+        "temperature": { "current": 95.6, "unit": "fahrenheit" },
+        "humidity": 25,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "weather": {
+        "temperature": { "current": 71.3, "unit": "fahrenheit" },
+        "humidity": 68,
+        "conditions": "Overcast"
+      }
+    },
+    {
+      "city": "San Antonio",
+      "state": "Texas",
+      "weather": {
+        "temperature": { "current": 83.7, "unit": "fahrenheit" },
+        "humidity": 70,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "San Diego",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 72.1, "unit": "fahrenheit" },
+        "humidity": 65,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Dallas",
+      "state": "Texas",
+      "weather": {
+        "temperature": { "current": 84.5, "unit": "fahrenheit" },
+        "humidity": 68,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "San Jose",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 70.8, "unit": "fahrenheit" },
+        "humidity": 62,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Austin",
+      "state": "Texas",
+      "weather": {
+        "temperature": { "current": 83.2, "unit": "fahrenheit" },
+        "humidity": 71,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Jacksonville",
+      "state": "Florida",
+      "weather": {
+        "temperature": { "current": 80.9, "unit": "fahrenheit" },
+        "humidity": 78,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Fort Worth",
+      "state": "Texas",
+      "weather": {
+        "temperature": { "current": 83.8, "unit": "fahrenheit" },
+        "humidity": 69,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Columbus",
+      "state": "Ohio",
+      "weather": {
+        "temperature": { "current": 70.4, "unit": "fahrenheit" },
+        "humidity": 70,
+        "conditions": "Cloudy"
+      }
+    },
+    {
+      "city": "San Francisco",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 65.2, "unit": "fahrenheit" },
+        "humidity": 75,
+        "conditions": "Foggy"
+      }
+    },
+    {
+      "city": "Charlotte",
+      "state": "North Carolina",
+      "weather": {
+        "temperature": { "current": 76.5, "unit": "fahrenheit" },
+        "humidity": 72,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "weather": {
+        "temperature": { "current": 71.6, "unit": "fahrenheit" },
+        "humidity": 69,
+        "conditions": "Cloudy"
+      }
+    },
+    {
+      "city": "Seattle",
+      "state": "Washington",
+      "weather": {
+        "temperature": { "current": 62.8, "unit": "fahrenheit" },
+        "humidity": 80,
+        "conditions": "Rain"
+      }
+    },
+    {
+      "city": "Denver",
+      "state": "Colorado",
+      "weather": {
+        "temperature": { "current": 68.9, "unit": "fahrenheit" },
+        "humidity": 45,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Washington",
+      "state": "District of Columbia",
+      "weather": {
+        "temperature": { "current": 73.4, "unit": "fahrenheit" },
+        "humidity": 70,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Boston",
+      "state": "Massachusetts",
+      "weather": {
+        "temperature": { "current": 69.7, "unit": "fahrenheit" },
+        "humidity": 73,
+        "conditions": "Overcast"
+      }
+    },
+    {
+      "city": "El Paso",
+      "state": "Texas",
+      "weather": {
+        "temperature": { "current": 85.3, "unit": "fahrenheit" },
+        "humidity": 35,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Detroit",
+      "state": "Michigan",
+      "weather": {
+        "temperature": { "current": 68.5, "unit": "fahrenheit" },
+        "humidity": 71,
+        "conditions": "Cloudy"
+      }
+    },
+    {
+      "city": "Nashville",
+      "state": "Tennessee",
+      "weather": {
+        "temperature": { "current": 77.2, "unit": "fahrenheit" },
+        "humidity": 73,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Portland",
+      "state": "Oregon",
+      "weather": {
+        "temperature": { "current": 64.5, "unit": "fahrenheit" },
+        "humidity": 77,
+        "conditions": "Rain"
+      }
+    },
+    {
+      "city": "Memphis",
+      "state": "Tennessee",
+      "weather": {
+        "temperature": { "current": 78.6, "unit": "fahrenheit" },
+        "humidity": 74,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Oklahoma City",
+      "state": "Oklahoma",
+      "weather": {
+        "temperature": { "current": 79.8, "unit": "fahrenheit" },
+        "humidity": 65,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "weather": {
+        "temperature": { "current": 92.4, "unit": "fahrenheit" },
+        "humidity": 20,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Louisville",
+      "state": "Kentucky",
+      "weather": {
+        "temperature": { "current": 74.3, "unit": "fahrenheit" },
+        "humidity": 72,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Baltimore",
+      "state": "Maryland",
+      "weather": {
+        "temperature": { "current": 72.8, "unit": "fahrenheit" },
+        "humidity": 71,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Milwaukee",
+      "state": "Wisconsin",
+      "weather": {
+        "temperature": { "current": 66.4, "unit": "fahrenheit" },
+        "humidity": 73,
+        "conditions": "Cloudy"
+      }
+    },
+    {
+      "city": "Albuquerque",
+      "state": "New Mexico",
+      "weather": {
+        "temperature": { "current": 82.1, "unit": "fahrenheit" },
+        "humidity": 30,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Tucson",
+      "state": "Arizona",
+      "weather": {
+        "temperature": { "current": 91.7, "unit": "fahrenheit" },
+        "humidity": 28,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Fresno",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 83.5, "unit": "fahrenheit" },
+        "humidity": 45,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Sacramento",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 78.9, "unit": "fahrenheit" },
+        "humidity": 52,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Kansas City",
+      "state": "Missouri",
+      "weather": {
+        "temperature": { "current": 75.6, "unit": "fahrenheit" },
+        "humidity": 68,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Mesa",
+      "state": "Arizona",
+      "weather": {
+        "temperature": { "current": 94.2, "unit": "fahrenheit" },
+        "humidity": 26,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Atlanta",
+      "state": "Georgia",
+      "weather": {
+        "temperature": { "current": 78.4, "unit": "fahrenheit" },
+        "humidity": 75,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "weather": {
+        "temperature": { "current": 67.3, "unit": "fahrenheit" },
+        "humidity": 48,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Raleigh",
+      "state": "North Carolina",
+      "weather": {
+        "temperature": { "current": 75.8, "unit": "fahrenheit" },
+        "humidity": 73,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Omaha",
+      "state": "Nebraska",
+      "weather": {
+        "temperature": { "current": 72.9, "unit": "fahrenheit" },
+        "humidity": 67,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Miami",
+      "state": "Florida",
+      "weather": {
+        "temperature": { "current": 84.6, "unit": "fahrenheit" },
+        "humidity": 80,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Oakland",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 67.8, "unit": "fahrenheit" },
+        "humidity": 72,
+        "conditions": "Foggy"
+      }
+    },
+    {
+      "city": "Minneapolis",
+      "state": "Minnesota",
+      "weather": {
+        "temperature": { "current": 65.7, "unit": "fahrenheit" },
+        "humidity": 70,
+        "conditions": "Cloudy"
+      }
+    },
+    {
+      "city": "Tulsa",
+      "state": "Oklahoma",
+      "weather": {
+        "temperature": { "current": 78.5, "unit": "fahrenheit" },
+        "humidity": 66,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Cleveland",
+      "state": "Ohio",
+      "weather": {
+        "temperature": { "current": 69.3, "unit": "fahrenheit" },
+        "humidity": 72,
+        "conditions": "Cloudy"
+      }
+    },
+    {
+      "city": "Wichita",
+      "state": "Kansas",
+      "weather": {
+        "temperature": { "current": 76.4, "unit": "fahrenheit" },
+        "humidity": 64,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "New Orleans",
+      "state": "Louisiana",
+      "weather": {
+        "temperature": { "current": 82.7, "unit": "fahrenheit" },
+        "humidity": 82,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Arlington",
+      "state": "Texas",
+      "weather": {
+        "temperature": { "current": 83.9, "unit": "fahrenheit" },
+        "humidity": 67,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Bakersfield",
+      "state": "California",
+      "weather": {
+        "temperature": { "current": 85.2, "unit": "fahrenheit" },
+        "humidity": 42,
+        "conditions": "Sunny"
+      }
+    },
+    {
+      "city": "Tampa",
+      "state": "Florida",
+      "weather": {
+        "temperature": { "current": 83.1, "unit": "fahrenheit" },
+        "humidity": 79,
+        "conditions": "Partly Cloudy"
+      }
+    },
+    {
+      "city": "Aurora",
+      "state": "Colorado",
+      "weather": {
+        "temperature": { "current": 68.6, "unit": "fahrenheit" },
+        "humidity": 46,
+        "conditions": "Clear"
+      }
+    },
+    {
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "weather": {
+        "temperature": { "current": 81.4, "unit": "fahrenheit" },
+        "humidity": 75,
+        "conditions": "Partly Cloudy"
+      }
+    }
+  ]
+}

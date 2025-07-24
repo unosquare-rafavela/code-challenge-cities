@@ -3,9 +3,9 @@ import { describe, test, expect } from '@jest/globals';
 import App from './App';
 
 describe('App', () => {
-  test('should render Hello text', () => {
+  test('Should render the Cities title', () => {
     render(<App />);
-    const helloText = screen.getByText(/Hello/i);
-    expect(helloText).toBeInTheDocument();
+    const title = screen.getByText(/Cities/i);
+    expect(title).toBeInTheDocument();
   });
 });

@@ -1,6 +1,17 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+.cities {
+  width: 100%;
+  height: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid gray;
+}
+
+thead {
+  border-bottom: 2px solid gray;
+}
+thead th {
+  padding: 10px;
 }
