@@ -14,7 +14,6 @@
       "state": "California",
       "weather": {
         "temperature": { "current": 75.8, "unit": "fahrenheit" },
-        "humidity": 58,
         "conditions": "Sunny"
       }
     },
@@ -23,15 +22,14 @@
       "state": "Illinois",
       "weather": {
         "temperature": { "current": 68.2, "unit": "fahrenheit" },
-        "humidity": 72,
-        "conditions": "Cloudy"
+        "humidity": 72
       }
     },
     {
       "city": "Houston",
       "state": "Texas",
       "weather": {
-        "temperature": { "current": 82.4, "unit": "fahrenheit" },
+        "temperature": null,
         "humidity": 75,
         "conditions": "Clear"
       }
@@ -355,7 +353,6 @@
       "city": "Raleigh",
       "state": "North Carolina",
       "weather": {
-        "temperature": { "current": 75.8, "unit": "fahrenheit" },
         "humidity": 73,
         "conditions": "Partly Cloudy"
       }
@@ -373,7 +370,6 @@
       "city": "Miami",
       "state": "Florida",
       "weather": {
-        "temperature": { "current": 84.6, "unit": "fahrenheit" },
         "humidity": 80,
         "conditions": "Partly Cloudy"
       }
@@ -410,8 +406,7 @@
       "state": "Ohio",
       "weather": {
         "temperature": { "current": 69.3, "unit": "fahrenheit" },
-        "humidity": 72,
-        "conditions": "Cloudy"
+        "humidity": 72
       }
     },
     {
